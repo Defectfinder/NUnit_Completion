@@ -98,6 +98,7 @@ C:\Aug2024\onboaring_proj\Nunit_proj\Nunit_proj\Nunit_proj\obj\Release\net8.0\Nu
 C:\Aug2024\onboaring_proj\Nunit_proj\Nunit_proj\Nunit_proj\obj\Release\net8.0\Nunit_proj.AssemblyInfoInputs.cache
 C:\Aug2024\onboaring_proj\Nunit_proj\Nunit_proj\Nunit_proj\obj\Release\net8.0\Nunit_proj.AssemblyInfo.cs
 C:\Aug2024\onboaring_proj\Nunit_proj\Nunit_proj\Nunit_proj\obj\Release\net8.0\Nunit_proj.csproj.CoreCompileInputs.cache
+C:\Aug2024\onboaring_proj\Nunit_proj\Nunit_proj\Nunit_proj\obj\Release\net8.0\Nunit_proj.sourcelink.json
 C:\Aug2024\onboaring_proj\Nunit_proj\Nunit_proj\Nunit_proj\obj\Release\net8.0\Nunit_proj.csproj.Up2Date
 C:\Aug2024\onboaring_proj\Nunit_proj\Nunit_proj\Nunit_proj\obj\Release\net8.0\Nunit_proj.dll
 C:\Aug2024\onboaring_proj\Nunit_proj\Nunit_proj\Nunit_proj\obj\Release\net8.0\refint\Nunit_proj.dll

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|c:\\aug2024\\onboaring_proj\\nunit_proj\\nunit_proj\\nunit_proj\\utilities\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|solutionrelative:nunit_proj\\utilities\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|c:\\aug2024\\onboaring_proj\\nunit_proj\\nunit_proj\\nunit_proj\\tests\\certificationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|solutionrelative:nunit_proj\\tests\\certificationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|c:\\aug2024\\onboaring_proj\\nunit_proj\\nunit_proj\\nunit_proj\\pages\\certificationtab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|solutionrelative:nunit_proj\\pages\\certificationtab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|c:\\aug2024\\onboaring_proj\\nunit_proj\\nunit_proj\\nunit_proj\\testmodel\\certificationtestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|solutionrelative:nunit_proj\\testmodel\\certificationtestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|c:\\aug2024\\onboaring_proj\\nunit_proj\\nunit_proj\\nunit_proj\\json_files\\editcertificationnegativefile.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|solutionrelative:nunit_proj\\json_files\\editcertificationnegativefile.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|c:\\aug2024\\onboaring_proj\\nunit_proj\\nunit_proj\\nunit_proj\\pages\\certificationnegativepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|solutionrelative:nunit_proj\\pages\\certificationnegativepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|c:\\aug2024\\onboaring_proj\\nunit_proj\\nunit_proj\\nunit_proj\\tests\\certificationnegativetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|solutionrelative:nunit_proj\\tests\\certificationnegativetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|c:\\aug2024\\onboaring_proj\\nunit_proj\\nunit_proj\\nunit_proj\\json_files\\addcertificationnegativefile.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|solutionrelative:nunit_proj\\json_files\\addcertificationnegativefile.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|c:\\aug2024\\onboaring_proj\\nunit_proj\\nunit_proj\\nunit_proj\\json_files\\testcert.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29C53EFE-4862-455E-A9DA-AE82C444DBA3}|Nunit_proj\\Nunit_proj.csproj|solutionrelative:nunit_proj\\json_files\\testcert.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommonDriver.cs",
+              "DocumentMoniker": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Utilities\\CommonDriver.cs",
+              "RelativeDocumentMoniker": "Nunit_proj\\Utilities\\CommonDriver.cs",
+              "ToolTip": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Utilities\\CommonDriver.cs",
+              "RelativeToolTip": "Nunit_proj\\Utilities\\CommonDriver.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:28:04.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditCertificationNegativefile.json",
+              "DocumentMoniker": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Json_files\\EditCertificationNegativefile.json",
+              "RelativeDocumentMoniker": "Nunit_proj\\Json_files\\EditCertificationNegativefile.json",
+              "ToolTip": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Json_files\\EditCertificationNegativefile.json",
+              "RelativeToolTip": "Nunit_proj\\Json_files\\EditCertificationNegativefile.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T23:26:42.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddCertificationNegativefile.json",
+              "DocumentMoniker": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Json_files\\AddCertificationNegativefile.json",
+              "RelativeDocumentMoniker": "Nunit_proj\\Json_files\\AddCertificationNegativefile.json",
+              "ToolTip": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Json_files\\AddCertificationNegativefile.json",
+              "RelativeToolTip": "Nunit_proj\\Json_files\\AddCertificationNegativefile.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T23:13:14.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CertificationNegativeTest.cs",
+              "DocumentMoniker": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Tests\\CertificationNegativeTest.cs",
+              "RelativeDocumentMoniker": "Nunit_proj\\Tests\\CertificationNegativeTest.cs",
+              "ToolTip": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Tests\\CertificationNegativeTest.cs",
+              "RelativeToolTip": "Nunit_proj\\Tests\\CertificationNegativeTest.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwFsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:09:33.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CertificationNegativepage.cs",
+              "DocumentMoniker": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Pages\\CertificationNegativepage.cs",
+              "RelativeDocumentMoniker": "Nunit_proj\\Pages\\CertificationNegativepage.cs",
+              "ToolTip": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Pages\\CertificationNegativepage.cs",
+              "RelativeToolTip": "Nunit_proj\\Pages\\CertificationNegativepage.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:07:28.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CertificationTestModel.cs",
+              "DocumentMoniker": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\TestModel\\CertificationTestModel.cs",
+              "RelativeDocumentMoniker": "Nunit_proj\\TestModel\\CertificationTestModel.cs",
+              "ToolTip": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\TestModel\\CertificationTestModel.cs",
+              "RelativeToolTip": "Nunit_proj\\TestModel\\CertificationTestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:42:34.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestCERT.json",
+              "DocumentMoniker": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Json_files\\TestCERT.json",
+              "RelativeDocumentMoniker": "Nunit_proj\\Json_files\\TestCERT.json",
+              "ToolTip": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Json_files\\TestCERT.json",
+              "RelativeToolTip": "Nunit_proj\\Json_files\\TestCERT.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T07:31:03.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CertificationTests.cs",
+              "DocumentMoniker": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Tests\\CertificationTests.cs",
+              "RelativeDocumentMoniker": "Nunit_proj\\Tests\\CertificationTests.cs",
+              "ToolTip": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Tests\\CertificationTests.cs",
+              "RelativeToolTip": "Nunit_proj\\Tests\\CertificationTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwHcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:05:03.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CertificationTab.cs",
+              "DocumentMoniker": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Pages\\CertificationTab.cs",
+              "RelativeDocumentMoniker": "Nunit_proj\\Pages\\CertificationTab.cs",
+              "ToolTip": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Pages\\CertificationTab.cs",
+              "RelativeToolTip": "Nunit_proj\\Pages\\CertificationTab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:39:46.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
