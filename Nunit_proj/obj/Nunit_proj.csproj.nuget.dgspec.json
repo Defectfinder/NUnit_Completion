@@ -11,7 +11,7 @@
         "projectName": "Nunit_proj",
         "projectPath": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Nunit_proj.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_proj\\Nunit_proj\\obj\\",
+        "outputPath": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
