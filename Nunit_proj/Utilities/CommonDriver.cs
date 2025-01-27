@@ -9,6 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using AventStack.ExtentReports.Reporter;
 using AventStack.ExtentReports;
+using Nunit_proj.Pages;
+using OpenQA.Selenium.Chrome;
 
 namespace Nunit_proj.Utilities
 {
@@ -16,6 +18,15 @@ namespace Nunit_proj.Utilities
     {
         public static IWebDriver driver;
         private ExtentTest test;
+        public static ProfilePage profileHomePageObj;
+        public void BrowserSetup()
+        {
+            driver = new ChromeDriver();
+            driver.Manage().Window.Maximize();
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
+
+
+        }
         [TearDown]
         public void TearDownActions()
         {
@@ -30,7 +41,43 @@ namespace Nunit_proj.Utilities
             
             Close();
         }
-        
+        public void CleanUp()
+        {
+            profileHomePageObj = new ProfilePage();
+            profileHomePageObj.NavigateToEducationPanel();
+            profileHomePageObj.ClearData();
+            profileHomePageObj.NavigateToCerticationPanel();
+            profileHomePageObj.ClearCertData();
+        }
+        public void ClearData()
+        {
+            try
+            {
+                var delEButton = driver.FindElements(By.XPath("//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[4]/div/div[2]/div/table/tbody/tr/td[6]/span[2]/i"));
+                foreach (var button in delEButton)
+                {
+                    Thread.Sleep(100);
+                    button.Click();
+                }
+                Thread.Sleep(100);
+            }
+
+            catch (StaleElementReferenceException e)
+            {
+                var delButton = driver.FindElements(By.XPath("//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[4]/div/div[2]/div/table/tbody/tr/td[6]/span[2]/i"));
+                foreach (var button in delButton)
+                {
+                    Thread.Sleep(100);
+                    button.Click();
+                }
+            }
+            catch (NoSuchElementException)
+            {
+                Console.WriteLine("Nothing to delete");
+            }
+        }
+
+
         public void Close()
         {
             driver.Quit();

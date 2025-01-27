@@ -93,10 +93,12 @@ namespace Nunit_proj.Pages
 
             // Edit Country
             editedCountry.Click();
+            editedCountry.Clear();
             editedCountry.SendKeys(Country);
 
             //Edit Title
             editedTitle.Click();
+            editedTitle.Clear();
             editedTitle.SendKeys(Title);
 
             //Edit Degree
@@ -105,6 +107,7 @@ namespace Nunit_proj.Pages
 
             //Edit Year
             editedYear.Click();
+            editedYear.Clear();
             editedYear.SendKeys(Year);
 
 
@@ -116,7 +119,7 @@ namespace Nunit_proj.Pages
 
             IWebElement Messagebox = driver.FindElement(By.XPath("//div[@class='ns-box-inner']"));
 
-            //WaitUtilitie.WaitToBeVisible(driver, "XPath", "//div[@class='ns-box-inner']", 100);
+            
 
             string actualMessage = Messagebox.Text;
             Console.WriteLine(actualMessage);

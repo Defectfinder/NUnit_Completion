@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_proj\\Nunit_proj\\Nunit_proj.csproj": {}
+    "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Nunit_proj.csproj": {}
   },
   "projects": {
-    "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_proj\\Nunit_proj\\Nunit_proj.csproj": {
+    "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Nunit_proj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_proj\\Nunit_proj\\Nunit_proj.csproj",
+        "projectUniqueName": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Nunit_proj.csproj",
         "projectName": "Nunit_proj",
-        "projectPath": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_proj\\Nunit_proj\\Nunit_proj.csproj",
+        "projectPath": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Nunit_proj.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
         "outputPath": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_proj\\Nunit_proj\\obj\\",
         "projectStyle": "PackageReference",
