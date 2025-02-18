@@ -11,12 +11,15 @@ using AventStack.ExtentReports.Reporter;
 using AventStack.ExtentReports;
 using Nunit_proj.Pages;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Firefox;
+
 
 namespace Nunit_proj.Utilities
 {
     public class CommonDriver
     {
         public static IWebDriver driver;
+        private ExtentReports extent;
         private ExtentTest test;
         public static ProfilePage profileHomePageObj;
         public void BrowserSetup()
@@ -24,7 +27,7 @@ namespace Nunit_proj.Utilities
             driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
-
+            CleanUp();
 
         }
         [TearDown]
@@ -41,6 +44,7 @@ namespace Nunit_proj.Utilities
             
             Close();
         }
+       
         public void CleanUp()
         {
             profileHomePageObj = new ProfilePage();

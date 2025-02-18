@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nunit_proj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3da7155d0969773e88f4733de88e1ce89b4ef53c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bd0006c70759cf2e10d0ab52a1d5482e2220eaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nunit_proj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nunit_proj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

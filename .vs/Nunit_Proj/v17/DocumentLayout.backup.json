@@ -58,12 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -74,8 +70,7 @@
               "RelativeToolTip": "Nunit_proj\\Pages\\ProfilePage.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T22:44:48.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T22:44:48.087Z"
             },
             {
               "$type": "Document",
@@ -87,12 +82,7 @@
               "RelativeToolTip": "Nunit_proj\\Utilities\\Hooks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T22:36:51.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-01-27T22:36:51.134Z"
             },
             {
               "$type": "Document",
@@ -104,8 +94,7 @@
               "RelativeToolTip": "Nunit_proj\\Pages\\EducationTab.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAgwF8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T04:18:28.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T04:18:28.022Z"
             },
             {
               "$type": "Document",
@@ -115,7 +104,7 @@
               "RelativeDocumentMoniker": "Nunit_proj\\Utilities\\CommonDriver.cs",
               "ToolTip": "C:\\Aug2024\\onboaring_proj\\Nunit_proj\\Nunit_Proj\\Nunit_proj\\Utilities\\CommonDriver.cs",
               "RelativeToolTip": "Nunit_proj\\Utilities\\CommonDriver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T23:28:04.068Z",
               "EditorCaption": ""

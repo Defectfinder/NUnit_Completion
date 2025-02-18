@@ -47,7 +47,7 @@ namespace Nunit_proj.Tests
 
         {
 
-            //educationPageObj.EducationTab();
+            
             Thread.Sleep(2000);
 
 
@@ -109,18 +109,7 @@ namespace Nunit_proj.Tests
                 string Year = data.Year;
                 Console.WriteLine(Year);
                 educationPageObj.EditEducation(University, Country, Title, Degree, Year);
-                //string neweditEducationfile = educationPageObj.getneweditEducationfile();
-
-                //if (University == neweditEducationfile)
-                //{
-                //    Assert.That(University, Is.EqualTo(neweditEducationfile));
-                //}
-                //else
-                //{
-                //    Console.WriteLine("Check error");
-
-
-                //}
+                
 
 
 

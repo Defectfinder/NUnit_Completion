@@ -43,7 +43,7 @@ namespace Nunit_proj.Pages
             CertifiedFromTextBox.SendKeys(CertificateFrom);
 
             //Enter year
-           // WaitUtilitie.WaitToBeClickable(driver, "XPath", "//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[5]/div[1]/div[2]/div/div/div[2]/div[2]/select", 1);
+          
             YearDropDown.Click();
             YearDropDown.SendKeys(Year);
 
