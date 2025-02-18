@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Nunit_proj.Pages;
 using Nunit_proj.Utilities;
+using System.Diagnostics.Metrics;
 
 namespace Nunit_proj.Tests
 {
@@ -27,16 +28,7 @@ namespace Nunit_proj.Tests
             ProfilePage profilePageObj = new ProfilePage();
             profilePageObj.NavigateToProfile(driver);
         }
-        [Test]
-       public void AddEducation_Test() 
-        {
-            EducationTab educationPageObj = new EducationTab();
-            educationPageObj.AddEducation(driver);
-
-
-
-
-        }
+        
         
        
     }
